@@ -1,0 +1,8 @@
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\bin\Debug\netstandard2.0\Peekachu.WF.deps.json
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\bin\Debug\netstandard2.0\Peekachu.WF.dll
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\bin\Debug\netstandard2.0\Peekachu.WF.pdb
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\obj\Debug\netstandard2.0\Peekachu.WF.csprojAssemblyReference.cache
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\obj\Debug\netstandard2.0\Peekachu.WF.AssemblyInfoInputs.cache
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\obj\Debug\netstandard2.0\Peekachu.WF.AssemblyInfo.cs
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\obj\Debug\netstandard2.0\Peekachu.WF.dll
+D:\yeela\Code\PeekachuAPI\Peekachu.WF\obj\Debug\netstandard2.0\Peekachu.WF.pdb

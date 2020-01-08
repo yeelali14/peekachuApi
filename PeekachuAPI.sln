@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeekachuAPI", "PeekachuAPI\PeekachuAPI.csproj", "{2911D07A-DD47-498A-AA94-32605D411E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peekachu.WF", "Peekachu.WF\Peekachu.WF.csproj", "{6C031182-8F38-47AC-818B-54C2E83111F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2911D07A-DD47-498A-AA94-32605D411E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2911D07A-DD47-498A-AA94-32605D411E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2911D07A-DD47-498A-AA94-32605D411E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2911D07A-DD47-498A-AA94-32605D411E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C031182-8F38-47AC-818B-54C2E83111F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C031182-8F38-47AC-818B-54C2E83111F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C031182-8F38-47AC-818B-54C2E83111F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C031182-8F38-47AC-818B-54C2E83111F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A62C86-A451-44A0-A896-0A795912DD8B}
+	EndGlobalSection
+EndGlobal
